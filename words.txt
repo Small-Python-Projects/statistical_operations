@@ -1,0 +1,13 @@
+owl
+human
+fish
+cat
+sheep
+aardvark
+cow
+mouse
+dog
+horse
+rabbit
+worm
+snake
